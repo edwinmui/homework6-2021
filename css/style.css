@@ -35,9 +35,10 @@ header{
     /*Don't forget to vertically and horizontally 
     align the element*/
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 /*Requirement 5*/
